@@ -2,5 +2,3 @@
 def k(texte):
     a= texte[:6]+" "+texte[6:]
     return a
-
-k(texte)
