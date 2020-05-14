@@ -3,5 +3,3 @@
 def s(liste):
     a = " ".join(liste)
     return a
-
-s(liste)
