@@ -3,4 +3,5 @@
 # - sinon ne pas modifier ce nombre
 # Renvoyer la liste modifiée
 def p(liste):
+    return [elmt - 50 if elmt>=50 else elmt for elmt in liste ]
     # TODO
